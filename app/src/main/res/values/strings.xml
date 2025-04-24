@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeOrderApp</string>
+    <string name="enter_mail">E-posta adresinizi girin</string>
+    <string name="login">Giriş Yap</string>
+</resources>
